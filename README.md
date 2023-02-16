@@ -45,28 +45,16 @@ Aqui estão algumas ideias para você começar:
 
 ## Ambiente de desenvolvimento:
 
-[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![COREI7](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![NVIDIA2060](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WillianQuintino)
+[![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/WillianQuintino)
+[![COREI7](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/WillianQuintino)
+[![NVIDIA2060](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/WillianQuintino)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianQuintino&show_icons=true&locale=br&layout=compact" alt="WillianQuintino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-kimanzi&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianQuintino&show_icons=true&locale=br" alt="WillianQuintino" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&" alt="peter-kimanzi" /></p>
-
-# Bem-vindo!!! 👋
-
-Sou o **Jefferson Simão Gonçalves**, moro em Assis/SP.
-
-Sou formado em Ciência da Computação (2015) pela [FEMA](https://www.fema.edu.br) e pelo curso Técnico em Informática (2010) pela [ETEC Cândido Mota](https://www.cps.sp.gov.br/etecs/etec-prof-luiz-pires-barbosa/).
-
-Sou programador de aplicativos e sistemas. Trabalho com diversas tecnologias.
-
-Adoro novos desafios.
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-WillianQuintino&" alt="WillianQuintino" /></p>
 
 ## Minhas atividades:
 
