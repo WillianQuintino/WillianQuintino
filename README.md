@@ -28,58 +28,6 @@ Aqui estão algumas ideias para você começar:
 
 - 📫 Me Contate por **williancustodioquintino@gmail.com**
 
-## Linguagens e Tecnologias:
-
-### Front-End:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Willian-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Willian-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <img align="center" alt="Willian-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-
-### Back-End:
-<div style="display: inline_block"><br>
-    <img align="center" alt="Willian-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Willian-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Willian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Willian-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
-
-
-### Frameworks:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Willian-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Willian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">    
-  <img align="center" alt="Willian-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-
-### Tecnologias:
-<div style="display: inline_block"><br>    
-  <img align="center" alt="Willian-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Willian-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Willian-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Willian-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-  <img align="center" alt="Willian-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">    
-    
-  <img align="center" alt="Willian-PuTTY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
-  <img align="center" alt="Willian-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
-    
-  <img align="center" alt="Willian-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">    
-  <img align="center" alt="Willian-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
-    
-  <img align="center" alt="Willian-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Willian-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-
-  <img align="center" alt="Willian-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Willian-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
-    
-  <img align="center" alt="Willian-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
-    
-  <img align="center" alt="Willian-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-    
-  <img align="center" alt="Willian-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-</div>
-
 ## Meus contatos:
 
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/williancustodioquintino/)
@@ -95,12 +43,59 @@ Aqui estão algumas ideias para você começar:
 <!--[![WakaTime Badge](https://img.shields.io/badge/WakaTime-000?logo=wakatime&logoColor=fff&style=for-the-badge)](https://wakatime.com/@jsimaogoncalves)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)-->
 
-## Ambiente de desenvolvimento:
+  ##Linguagens e Tecnologias:
+  
+  ###Front-End:
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Willian-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Willian-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+    <img align="center" alt="Willian-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </div>
 
+  ### Back-End:
+  <div style="display: inline_block"><br>
+      <img align="center" alt="Willian-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+      <img align="center" alt="Willian-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+      <img align="center" alt="Willian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+      <img align="center" alt="Willian-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  </div>
+
+
+  ### Frameworks:
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Willian-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Willian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">    
+    <img align="center" alt="Willian-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </div>
+
+  ### Tecnologias:
+  <div style="display: inline_block"><br>    
+    <img align="center" alt="Willian-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+    <img align="center" alt="Willian-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Willian-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="Willian-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+    <img align="center" alt="Willian-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">   
+    <img align="center" alt="Willian-PuTTY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+    <img align="center" alt="Willian-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
+    <img align="center" alt="Willian-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">    
+    <img align="center" alt="Willian-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
+    <img align="center" alt="Willian-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Willian-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Willian-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img align="center" alt="Willian-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
+    <img align="center" alt="Willian-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
+    <img align="center" alt="Willian-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+    <img align="center" alt="Willian-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  </div>
+
+##Ambiente de desenvolvimento
+  
 [![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WillianQuintino)
 [![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/WillianQuintino)
 [![Ryzen5](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
 [![Radeon540X](https://img.shields.io/badge/AMD-Radeon_540X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
+  
+
 ## Minhas atividades:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianQuintino&show_icons=true&locale=pt-BR&layout=compact&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
@@ -109,156 +104,16 @@ Aqui estão algumas ideias para você começar:
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WillianQuintino&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="WillianQuintino" /></p>
 
-<!--[![GitHub Streak]()](https://github.com/WillianQuintino)
-
-[![Metrics](/github-metrics.svg)](https://github.com/WillianQuintino)-->
-
-<details title="Most Used Languages and Trophies" align="left">
-    <br />
-    <summary align="left"><strong><i>Most Used Languages and Trophies</i></strong> 📊 🏆</summary>
-    <a href="https://github-profile-trophy.vercel.app/?username=WillianCustodio&column=4&theme=dracula&margin-w=4&margin-h=4&no-frame=true">
+<summary align="left"><strong><i>Troféus</i></strong> 📊 🏆</summary>
+    <a href="https://github-profile-trophy.vercel.app/?username=WillianQuintino&theme=dracula">
         <img 
-             src="https://github-profile-trophy.vercel.app/?username=WillianCustodio&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true"
-             align="right"
+             src="https://github-profile-trophy.vercel.app/?username=WillianQuintino&theme=dracula"
+             align="left"
              title="Troféus de Willian Custodio"
              width="55%"
         />
     </a>
-</details>
 
-<details title="Projects and Courses">
-    <summary align="left"><strong><i>Projects and Courses</i></strong> :floppy_disk:</summary>
-    <br />
-    <!-- Projects -->
-    <table border=1 title="Projects">
-        <tr>
-            <th colspan="4" align="center">Projects</th>
-        </tr>
-        <tr>
-            <th>Name</th>
-            <th>Website</th>
-            <th>Languages</th>
-        </tr>
-        <!-- HTML5 -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes.github.io" title="Personal Portfolio Website">Personal Portfolio Website</a></td>
-            <td align="center"><a href="https://lucasrmagalhaes.github.io/" title="Personal Portfolio Website">:globe_with_meridians:</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"></a><br><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"></a><br><a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"></a>
-            </td>
-        </tr>
-        <!-- HTML5 -->
-        <!-- JavaScript -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/snake-js" title="Snake">Snake</a></td>
-            <td align="center"><a href="https://lucasrmagalhaes.github.io/snake-js/" title="Snake">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"></a>
-            </td>
-        </tr>
-        <!-- JavaScript -->
-        <!-- React -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/covid19-react" title="COVID-19">COVID-19</a></td>
-            <td align="center"><a href="https://covid19-pwa.netlify.app/" title="COVID-19">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react" title="dt money">dt money</a></td>
-            <td align="center"><a href="https://dt-money-react.netlify.app/" title="dt money">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/event_platform-react" title="Event Platform">Event Platform</a></td>
-            <td align="center"><a href="https://event-platform-react-roan.vercel.app/" title="Event Platform">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/tree/chapterI" title="GitHub Explorer">GitHub Explorer</a></td>
-            <td align="center"><a href="https://github-explorer-ignite-react.netlify.app/" title="GitHub Explorer">:globe_with_meridians:</a></td>
-            <td align="left">
-                <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"></a>
-            </td>
-        </tr>
-        <!-- React -->
-    </table>
-    <!-- Projects -->
-    <!-- Courses -->
-    <table border=1 title="Courses">
-        <tr>
-            <th colspan="4" align="center">Courses</th>
-        </tr>
-        <tr>
-            <th>Name</th>
-            <th>Languages</th>
-        </tr>
-        <!-- C# -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/excecoes-csharp" title="Exceções com C#">Exceções com C#</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"></a></td>
-        </tr>
-        <!-- C# -->
-        <!-- CSS -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/animation-css" title="CSS: Animation">CSS: Animation</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/menus-css" title="Menu hamburguer e morphing menu com CSS transitions">Menu hamburguer e morphing menu com CSS transitions</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"></a></td>
-        </tr>
-        <!-- CSS -->
-        <!-- GIT -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/git-gitHub" title="Git e GitHub - Comandos e Conceitos">Git e GitHub - Comandos e Conceitos</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="GIT"></a></td>
-        </tr>
-        <!-- GIT -->
-        <!-- Java -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/jasper-java_php" title="Anotações da Biblioteca JasperReports">Anotações da Biblioteca JasperReports</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java"></a><br><a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"></a></td>
-        </tr>
-        <!-- Java -->
-        <!-- MySQL -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/movies_controll-mysql" title="Como Modelar um Banco de Controle de Séries Assistidas com MySQL">Como Modelar um Banco de Controle de Séries Assistidas com MySQL</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"></a></td>
-        </tr>
-        <!-- MySQL -->
-        <!-- PHP -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/desenvolvimento_web_avancado-php_laravel_vuejs" title="Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS">Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"></a><br><a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel"></a><br><a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" title="Vue.JS"></a></td>
-        </tr>
-        <!-- PHP -->
-        <!-- Python -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py" title="Segurança da Informação com Python">Segurança da Informação com Python</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python"></a></td>
-        </tr>
-        <!-- Python -->
-        <!-- TypeScript -->
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/introducaoPraticaAoTypeScript-ts" title="Introdução Prática ao TypeScript">Introdução Prática ao TypeScript</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript"></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/lucasrmagalhaes/fundamentosNodeJest-ts" title="Fundamentos Node.js e Jest">Fundamentos Node.js e Jest</a></td>
-            <td align="left"><a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript"></a></td>
-        </tr>
-        <!-- TypeScript -->
-    </table>
-    <!-- Courses -->
-</details>
+<!--[![GitHub Streak]()](https://github.com/WillianQuintino)
 
-<details>
-    <summary><strong><i>Spotify Recently Played<i></strong> :arrow_forward:</summary>
-    <br />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ad75itafbn7w2633u16rwhb09" />
-</details>
+[![Metrics](/github-metrics.svg)](https://github.com/WillianQuintino)-->
