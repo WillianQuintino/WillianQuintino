@@ -48,19 +48,7 @@ Aqui estão algumas ideias para você começar:
 
 Profissional com experiência consolidada na área Tecnológica, conhecimento em banco de dados, Programação C, PHP, CSS, JavaScript e Lógica, Apache intermediário, MySQL intermediário/ avançado, Informática Avançada e Manutenção de Computadores. Possuindo cursos complementares em Full-Stack, React Nactive, Java, Python, banco de dados e Inglês. Em constante desenvolvimento de habilidades e crescimento profissional.
 
-Estou hoje estudando cursos de:
- - Fullstack Web na DevMedia;
- - BootCamp na Dio Linux em DotNet;
- - Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS na Udemy.
-
-Tenho experiência com:
- - PHP, MySQL e HTML (Intermediário / Avançado) no NEPO por 1 Ano e no GoodBom por 1 Ano e 10 meses;
- - CSS, JavaScript, Bootstrap, API, PHP Libs (Intermediário) no NEPO por 1 Ano;
- - Linux/Windows/Redes (Intermediário), C#/ Active Directory (Básico) no GoodBom por 1 Ano e 10 meses.
-
 Disponibilidade de horários | viagens | mudanças para o exterior (Portugal).
-
-Quer ver um pouco do meu código: https://github.com/WillianQuintino.
 
 Possuo Inglês (A1) e Espanhol (B1).
 
