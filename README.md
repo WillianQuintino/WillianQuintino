@@ -109,22 +109,18 @@ Aqui estão algumas ideias para você começar:
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WillianQuintino&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="WillianQuintino" /></p>
 
-[![GitHub Streak]()](https://github.com/WillianQuintino)
+<!--[![GitHub Streak]()](https://github.com/WillianQuintino)
 
-[![Metrics](/github-metrics.svg)](https://github.com/WillianQuintino)
+[![Metrics](/github-metrics.svg)](https://github.com/WillianQuintino)-->
 
 <details title="Most Used Languages and Trophies" align="left">
     <br />
     <summary align="left"><strong><i>Most Used Languages and Trophies</i></strong> 📊 🏆</summary>
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=gruvbox" 
-         width="40%"           
-    />
-    <a href="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
+    <a href="https://github-profile-trophy.vercel.app/?username=WillianCustodio&column=4&theme=dracula&margin-w=4&margin-h=4&no-frame=true">
         <img 
-             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true"
+             src="https://github-profile-trophy.vercel.app/?username=WillianCustodio&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true"
              align="right"
-             title="Lucas Magalhães's Trophies"
+             title="Troféus de Willian Custodio"
              width="55%"
         />
     </a>
