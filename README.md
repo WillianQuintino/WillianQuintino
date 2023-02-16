@@ -47,20 +47,19 @@ Aqui estão algumas ideias para você começar:
 
 [![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WillianQuintino)
 [![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/WillianQuintino)
-[![COREI7](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/WillianQuintino)
-[![NVIDIA2060](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/WillianQuintino)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianQuintino&show_icons=true&locale=br&layout=compact" alt="WillianQuintino" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianQuintino&show_icons=true&locale=br" alt="WillianQuintino" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-WillianQuintino&" alt="WillianQuintino" /></p>
-
+[![Ryzen5](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
+[![Radeon540X](https://img.shields.io/badge/AMD-Radeon_540X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
 ## Minhas atividades:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/jeffersonsimaogoncalves)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianQuintino&show_icons=true&locale=br&layout=compact&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
 
-[![Metrics](/github-metrics.svg)](https://github.com/jeffersonsimaogoncalves)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianQuintino&show_icons=true&locale=pt-BR&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
+
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WillianQuintino&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="WillianQuintino" /></p>
+
+[![GitHub Streak]()](https://github.com/WillianQuintino)
+
+[![Metrics](/github-metrics.svg)](https://github.com/WillianQuintino)
 
 <details title="Most Used Languages and Trophies" align="left">
     <br />
