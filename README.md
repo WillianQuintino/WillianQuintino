@@ -29,6 +29,21 @@ Aqui estão algumas ideias para você começar:
 
 - 📫 Me Contate por **williancustodioquintino@gmail.com**
 
+## Meus contatos:
+
+[![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/williancustodioquintino/)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillianQuintino)
+[![Gravatar Badge](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge)](https://pt.gravatar.com/willianquintino)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:williancustodioquintino@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willian-custodio-quintino/)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williancustodio/)
+[![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:williancustodioquintino@outlook.com.br?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
+[![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/williancustodioquintino)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/willianquintin)
+<!--[![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=fff&style=for-the-badge)]()-->
+<!--[![WakaTime Badge](https://img.shields.io/badge/WakaTime-000?logo=wakatime&logoColor=fff&style=for-the-badge)](https://wakatime.com/@jsimaogoncalves)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)-->
+
 ## Sobre Mim:
 
 Profissional com experiência consolidada na área Tecnológica, conhecimento em banco de dados, Programação C, PHP, CSS, JavaScript e Lógica, Apache intermediário, MySQL intermediário/ avançado, Informática Avançada e Manutenção de Computadores. Possuindo cursos complementares em Full-Stack, React Nactive, Java, Python, banco de dados e Inglês. Em constante desenvolvimento de habilidades e crescimento profissional.
@@ -49,20 +64,7 @@ Quer ver um pouco do meu código: https://github.com/WillianQuintino.
 
 Possuo Inglês (A1) e Espanhol (B1).
 
-## Meus contatos:
 
-[![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/williancustodioquintino/)
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillianQuintino)
-[![Gravatar Badge](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge)](https://pt.gravatar.com/willianquintino)
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:williancustodioquintino@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willian-custodio-quintino/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williancustodio/)
-[![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:williancustodioquintino@outlook.com.br?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
-[![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/williancustodioquintino)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/willianquintin)
-<!--[![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=fff&style=for-the-badge)]()-->
-<!--[![WakaTime Badge](https://img.shields.io/badge/WakaTime-000?logo=wakatime&logoColor=fff&style=for-the-badge)](https://wakatime.com/@jsimaogoncalves)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)-->
 
   ##Linguagens e Tecnologias:
   
