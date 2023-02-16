@@ -51,7 +51,7 @@ Aqui estão algumas ideias para você começar:
 [![Radeon540X](https://img.shields.io/badge/AMD-Radeon_540X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
 ## Minhas atividades:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianQuintino&show_icons=true&locale=br&layout=compact&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianQuintino&show_icons=true&locale=pt-BR&layout=compact&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianQuintino&show_icons=true&locale=pt-BR&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
 
