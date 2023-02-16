@@ -10,9 +10,9 @@ Aqui estão algumas ideias para você começar:
 - 💬 Pergunte-me sobre...
 - 📫 Como chegar até mim: ...
 - 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: ...-->
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()-->
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE-E25pVfPG3A/profile-displaybackgroundimage-shrink_350_1400/0/1670950179652?e=1681948800&v=beta&t=qFGwg-HLNorUObZsX4PxAudAgLnpsXWVGmkVJ0EwHaA)]()
 
 <h1 align="center">Olá 👋,  Eu sou Willian Quintino</h1>
 <h3 align="center">Um desenvolvedor PHP de Sumaré - SP</h3>
@@ -74,24 +74,17 @@ Aqui estão algumas ideias para você começar:
     <img align="center" alt="Willian-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Willian-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" alt="Willian-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-    <img align="center" alt="Willian-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">   
-    
+    <img align="center" alt="Willian-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
     <img align="center" alt="Willian-PuTTY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
-    <img align="center" alt="Willian-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">   
-    
+    <img align="center" alt="Willian-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg"> 
     <img align="center" alt="Willian-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">    
-    <img align="center" alt="Willian-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">   
-    
+    <img align="center" alt="Willian-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"> 
     <img align="center" alt="Willian-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Willian-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">   
-    
     <img align="center" alt="Willian-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="Willian-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">     
-    
-    <img align="center" alt="Willian-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">   
-    
+    <img align="center" alt="Willian-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">  
     <img align="center" alt="Willian-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">   
-    
     <img align="center" alt="Willian-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   </div>
 
@@ -112,7 +105,3 @@ Aqui estão algumas ideias para você começar:
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WillianQuintino&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="WillianQuintino" /></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=WillianQuintino&theme=dracula" align="left" title="Troféus de Willian Custodio" width="55%" /></p>
-
-<!--[![GitHub Streak]()](https://github.com/WillianQuintino)
-
-[![Metrics](/github-metrics.svg)](https://github.com/WillianQuintino)-->
