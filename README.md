@@ -13,7 +13,7 @@ Aqui estão algumas ideias para você começar:
 - ⚡ Curiosidade: ...
 -->
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE-E25pVfPG3A/profile-displaybackgroundimage-shrink_350_1400/0/1670950179652?e=1681948800&v=beta&t=qFGwg-HLNorUObZsX4PxAudAgLnpsXWVGmkVJ0EwHaA)](https://www.linkedin.com/in/willian-custodio-quintino/)
+[![MasterHead](1670950179652.jfif)](https://www.linkedin.com/in/willian-custodio-quintino/)
 
 <h1 align="center">Olá 👋,  Eu sou Willian Quintino</h1>
 <h3 align="center">Programador Junior: Sistemas Web PHP e C# | Técnico em TI</h3>
