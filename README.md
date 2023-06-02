@@ -13,7 +13,7 @@ Aqui estão algumas ideias para você começar:
 - ⚡ Curiosidade: ...
 -->
 
-[![MasterHead](1670950179652.jfif)](https://www.linkedin.com/in/willian-custodio-quintino/)
+[![MasterHead](https://github.com/WillianQuintino/WillianQuintino/blob/main/1670950179652.jfif?raw=true)](https://www.linkedin.com/in/willian-custodio-quintino/)
 
 <h1 align="center">Olá 👋,  Eu sou Willian Quintino</h1>
 <h3 align="center">Programador Junior: Sistemas Web PHP e C# | Técnico em TI</h3>
