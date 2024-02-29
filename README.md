@@ -75,7 +75,7 @@ Possuo Inglês (A1) e Espanhol (B1).
   ### Frameworks:
   <div style="display: inline_block"><br>
     <img align="center" alt="Willian-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Willian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">    
+    <img align="center" alt="Willian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">    
     <img align="center" alt="Willian-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
 
