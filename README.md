@@ -23,9 +23,9 @@ Aqui estão algumas ideias para você começar:
 
 -  Atualmente não estou trabalhando.
 
-- 🌱 Estou estudanto **PHP, laravel, Vue**
+- 🌱 Estou estudanto **SilverStripe, React, Dart, Flutter**
 
-- 💬 Pergunteme sobre **Laravel, Vue, APIs, PHP, MySQL, Redes, Computadores**
+- 💬 Pergunteme sobre **Laravel, Vue, APIs, PHP, MySQL, Redes, Computadores, SilverStripe, React**
 
 - 📫 Me Contate por **williancustodioquintino@gmail.com**
 
@@ -61,6 +61,7 @@ Possuo Inglês (A1) e Espanhol (B1).
     <img align="center" alt="Willian-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Willian-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
     <img align="center" alt="Willian-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Willian-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   </div>
 
   ### Back-End:
@@ -75,6 +76,7 @@ Possuo Inglês (A1) e Espanhol (B1).
   ### Frameworks:
   <div style="display: inline_block"><br>
     <img align="center" alt="Willian-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Willian-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Willian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">    
     <img align="center" alt="Willian-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
@@ -97,6 +99,9 @@ Possuo Inglês (A1) e Espanhol (B1).
     <img align="center" alt="Willian-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">  
     <img align="center" alt="Willian-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">   
     <img align="center" alt="Willian-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+    <img align="center" alt="Willian-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+    
+
   </div>
 
 ##Ambiente de desenvolvimento
@@ -105,6 +110,13 @@ Possuo Inglês (A1) e Espanhol (B1).
 [![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/WillianQuintino)
 [![Ryzen5](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
 [![Radeon540X](https://img.shields.io/badge/AMD-Radeon_540X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
+
+---
+
+[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WillianQuintino)
+[![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/WillianQuintino)
+[![Ryzen5](https://img.shields.io/badge/AMD-FX-8150-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_GTX_750-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/WillianQuintino)
   
 
 ## Minhas atividades:
