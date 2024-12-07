@@ -115,7 +115,7 @@ Possuo Inglês (A1) e Espanhol (B1).
 
 [![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WillianQuintino)
 [![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/WillianQuintino)
-[![Ryzen5](https://img.shields.io/badge/AMD-FX-8150-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
+[![FX-8150](https://img.shields.io/badge/AMD-FX_8150-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/WillianQuintino)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_GTX_750-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/WillianQuintino)
   
 
