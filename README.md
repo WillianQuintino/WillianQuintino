@@ -13,7 +13,7 @@ Aqui estão algumas ideias para você começar:
 - ⚡ Curiosidade: ...
 -->
 
-[![MasterHead](https://i.imgur.com/zidvKIq.jpeg)](https://www.linkedin.com/in/willian-custodio-quintino/)
+[![MasterHead](https://i.imgur.com/zidvKIq.jpeg)](https://www.linkedin.com/in/willian-custodio-quintino/) 
 
 <h1 align="center">Olá 👋,  Eu sou Willian Quintino</h1>
 <h3 align="center">Programador Junior: Sistemas Web PHP e C# | Técnico em TI</h3>
@@ -50,7 +50,7 @@ Profissional com experiência consolidada na área Tecnológica, conhecimento em
 
 Disponibilidade de horários | viagens | mudanças para o exterior (Portugal).
 
-Possuo Inglês (A1) e Espanhol (B1).
+Possuo Inglês (B1) e Espanhol (B1).
 
 
 
@@ -125,6 +125,6 @@ Possuo Inglês (A1) e Espanhol (B1).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WillianQuintino&show_icons=true&locale=pt-BR&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="WillianQuintino" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WillianQuintino&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="WillianQuintino" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=WillianQuintino&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-BR" alt="WillianQuintino" /></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=WillianQuintino&theme=dracula" align="left" title="Troféus de Willian Custodio" width="55%" /></p>
